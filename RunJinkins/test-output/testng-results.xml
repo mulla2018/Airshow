@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5658" started-at="2020-12-08T00:52:40Z" finished-at="2020-12-08T00:52:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5658" started-at="2020-12-08T00:52:40Z" finished-at="2020-12-08T00:52:46Z">
+      <class name="RunJinkins.RunJinkins.whdjhs">
+        <test-method status="PASS" signature="main()[pri:0, instance:RunJinkins.RunJinkins.whdjhs@3fee9989]" name="main" duration-ms="5633" started-at="2020-12-07T19:52:40Z" finished-at="2020-12-07T19:52:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- RunJinkins.RunJinkins.whdjhs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
